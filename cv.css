@@ -1,0 +1,81 @@
+
+section ul{
+   justify-content: space-around;/*faire l'espace entre les types de menue*/
+   width: 550px;
+    height: 25px;
+    margin-left: 350px;
+    margin-top: 40px;
+     
+}
+
+ul{
+display: flex;  /*<!--creation d'un menue horizontal-->*/
+ 
+}
+
+ul li{
+list-style: none;                 /*supprimer les point de menu-->*/
+}
+
+ul li a{
+text-decoration: none;/*supprimer la line sur lien-->*/
+
+}
+                
+                    
+
+             
+
+
+#text{
+  width: 750px;
+  margin-left: 330px;
+
+}
+ 
+ #section2{
+  width: 20%;
+  height:100%;
+
+  margin-left:10px;
+  margin-top: -43px;
+  }
+#nom{
+  margin-left: 27px;
+  color: #778899;
+}
+#profile{
+
+  height: 150px;
+  width: 150px;
+  background-color: #778899;
+  border-radius: 75px;
+}
+
+#position{
+   height: 15px;
+  width: 15px;
+  
+}
+#position1{
+  margin-left: 19px;
+  margin-top: -21px;
+}
+
+
+/*SECTION3*/
+  #section3{
+    width: 700px;
+    margin-left: 430px;
+    margin-top: -310px;
+  }
+
+ 
+
+
+
+
+
+
+
+
