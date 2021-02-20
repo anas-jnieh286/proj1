@@ -1,0 +1,50 @@
+#body{
+	 background-color: rgb(28, 231, 221);
+}
+
+
+#main{
+	margin-left:510px ;
+	margin-top: 40px;
+
+}
+
+
+#textview{
+ 
+	width: 200px;
+	height: 30px;
+	margin: 2px;
+	border:2px solid;
+	
+
+}
+#button{
+	height: 50px;
+	width: 50px;
+	border: 1px solid;
+	background:  #56a79a;
+	color: white;
+	border-radius: 10px;
+
+}
+
+
+#h1{
+
+margin-left:530px ;
+	margin-top: 50px;
+
+}
+
+#h2{
+   margin-left:545px ;
+	margin-top: -5px;
+
+
+}
+#by{
+	 margin-left:745px ;
+	margin-top: 25px;
+	color:#000000; 
+}
